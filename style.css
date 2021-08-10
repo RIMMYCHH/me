@@ -1,0 +1,56 @@
+#s1{
+  background:linear-gradient(#6d74c9 0% , #c46dc9 100%);
+  text-align:center;
+  position:static;
+   
+  
+}
+
+#yr{
+  font-style: italic;
+  font-weight:bold;
+}
+
+#yr2{
+  font-style: italic;
+  font-weight:bold;
+}
+
+img{
+  border-style:solid;
+  padding:40px;
+  margin:40px;
+  border-radius:80px;
+  
+}
+#s2{
+  background-color:cadetblue;
+position: relative;
+}
+body{
+    text-align: center;
+}
+.parallax-inner{
+    display: table;
+    position: relative;
+}
+li{
+float:left;
+    list-style: none;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+.LINE{
+    background-color: coral;
+    width: inherit;
+    height: 5PX;
+        margin: 10PX auto;
+}
+#s3{
+  background:linear-gradient(#f38cc4 0% , #8cf3bb 100%);
+  text-align:center;
+  position:static;
+   
+  
+}
