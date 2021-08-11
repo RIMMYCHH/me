@@ -21,6 +21,8 @@ img{
   padding:40px;
   margin:40px;
   border-radius:80px;
+    height:200px;
+    width:250px;
   
 }
 #s2{
@@ -53,4 +55,18 @@ float:left;
   position:static;
    
   
+}
+#s4{
+  background:linear-gradient(#b0f59d 0% , #edc7f8 100%);
+  text-align:center;
+    position:static;
+}
+
+
+
+
+#s5{
+  background:linear-gradient(#fc7c50 0% , #9ddff5 100%);
+  text-align:center;
+    position:static;
 }
